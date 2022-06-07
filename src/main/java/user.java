@@ -1,3 +1,3 @@
 public class user {
-    private String y;
+    private String t;
 }

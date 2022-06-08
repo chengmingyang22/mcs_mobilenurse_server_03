@@ -8,7 +8,6 @@ public class yonghubiao {
      * 主键:系统ID
      */
     public String sysID;
-
     public String brID;
     public String changed;
     public String parentID;
